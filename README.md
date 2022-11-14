@@ -6,4 +6,4 @@ You may use this spec for things like auto-generating SDKs for languages or fram
 
 The spec.json file contained in this repository is always up to date and automatically updated anytime our production APIs are updated with new features, changed endpoints, and more.
 
-Visit https://trymetafab.com to learn more.
+Visit https://trymetafab.com to learn more
